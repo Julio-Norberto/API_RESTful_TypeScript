@@ -12,9 +12,7 @@ Esse projeto foi feito durante um curso de TypeScript e se trata de uma API REST
 
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-Nesse projeto também foram usadas tecnologias como o Express validator, para fazer validações nas requisições, winston e morgan para criação de logs e também o Insomnia para testar a API.
+Nesse projeto também foram usadas tecnologias como o Express validator, para fazer validações nas requisições, winston e morgan para criação de logs, mongoose para conexão com banco de dados e também o Insomnia para testar a API.
 
 
 ## Instalação
